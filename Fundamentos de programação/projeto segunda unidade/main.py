@@ -9,8 +9,8 @@ COMPETICOES = []
 meta_km_mes = 10
 meta_velocidade = 2
 
-PATH_REGISTROS = "./registros.csv"
-PATH_METAS = "./metas.csv"
+PATH_REGISTROS = "./data/registros.csv"
+PATH_METAS = "./data/metas.csv"
 
 class Data:
     def __init__(self, str) -> None:
