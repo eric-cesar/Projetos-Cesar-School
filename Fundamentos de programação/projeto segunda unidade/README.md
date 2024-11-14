@@ -22,7 +22,7 @@ Este projeto foi desenvolvido para ajudar Pedro, um atleta de corrida, a monitor
   - **Tempo**: ajuda a identificar treinos com tempos específicos para diferentes distâncias.
 
 ### 4. Armazenamento de Dados
-- Os dados são armazenados em um **banco de dados local** utilizando arquivos `.txt` ou `.csv`.
+- Os dados são armazenados em um **banco de dados local** utilizando arquivos `.csv`.
 - As informações são persistentes, permitindo que Pedro acesse e revise seu histórico de treinos e competições a qualquer momento.
 
 ### 5. Metas e Desafios
