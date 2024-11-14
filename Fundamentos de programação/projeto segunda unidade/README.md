@@ -46,7 +46,7 @@ Este projeto foi desenvolvido para ajudar Pedro, um atleta de corrida, a monitor
 ## Como Usar
 1. **Clonar o Repositório**:
     ```bash
-    git clone https://github.com/usuario/sistema-gerenciamento-treinos
+    git clone https://github.com/eric-cesar/Projetos-Cesar-School.git
     cd sistema-gerenciamento-treinos
     ```
 2. **Instalar Dependências**:
